@@ -2,6 +2,6 @@
 (coming soon)
 
 ##Official Hub
-[opencopyright.webrunes.com](https://opencopyright.wrioos.com)
+[opencopyright.wrioos.com](https://opencopyright.wrioos.com)
 
 Powered by [Open Copyright](https://opencopyright.wrioos.com)
